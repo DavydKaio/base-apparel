@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Josefin: ['Josefin']
+        'Josefin': ['Josefin Sans', 'sans-serif']
       },
       colors: {
         'Desaturated-Red': 'hsl(0, 36%, 70%)',
